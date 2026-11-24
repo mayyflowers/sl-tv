@@ -30,4 +30,7 @@
 		"temporal-polyfill": "^0.2.3",
 		"tinycolor2": "^1.6.0"
 	}
+	"engines": {
+		"node": "22.x"
+	}
 }
